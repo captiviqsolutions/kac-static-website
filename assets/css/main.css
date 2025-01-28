@@ -1184,14 +1184,14 @@ section,
 }
 
 .portfolio .portfolio-item {
-/*   position: relative; */
+  /* position: relative; */
   overflow: hidden;
 }
 
 .portfolio .portfolio-item .portfolio-info {
   opacity: 1;
   position: relative;
-/*   position: absolute;
+  /* position: absolute;
   left: 12px;
   right: 12px; */
   bottom: 0;
